@@ -1,0 +1,6 @@
+<resources>
+    <string name="increase" />
+    <string name="decrease" />
+    <string name="app_name" />
+    <string name="discharge" />
+</resources>
